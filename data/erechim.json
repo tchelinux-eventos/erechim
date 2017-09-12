@@ -24,8 +24,7 @@
     "rooms" : [
         { "number": "1", "subject": "" },
         { "number": "2", "subject": "" },
-        { "number": "3", "subject": "" },
-        { "number": "4", "snebject": "" }
+        { "number": "3", "subject": "" }
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/73biiwYqH3bdCPx03",
