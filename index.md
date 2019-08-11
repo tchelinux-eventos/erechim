@@ -170,6 +170,10 @@ Espaço dedicado a apresentação de cases empresariais utilizando Software Livr
 
 [![Faculdade Anglicana de Erechim](images/FAE.png)](http://www.legiaodacruz.com.br/)
 
+### Patrocínio
+
+[![NeTIworking](images/logo_neTIworking.jpg)](https://www.linkedin.com/company/14027424/)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
