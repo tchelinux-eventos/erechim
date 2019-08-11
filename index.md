@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade Anglicana de Erechim**](http://www.legiaodacruz.com.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **28 de Setembro de 2019 a partir das 8:30h** na FAE em Erechim.
 
-## Chamada de Trabalhos
-
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **10 de Agosto de 2019**. Os trabalhos escolhidos serão anúnciados no dia 12 de Agosto de 2019.
-
-[**Clique aqui e submeta sua palestra agora mesmo!**](https://erechim.tchelinux.org/cfp)
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia 12 de Agosto, quando a **programação do evento** for anunciada.
