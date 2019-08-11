@@ -10,13 +10,15 @@ As inscrições estarão abertas a partir do dia 12 de Agosto, quando a **progra
 
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
-Os alimentos são recebidos no momento do credenciamento.
+**Importante:** Os alimentos são recebidos no momento do credenciamento.
 
 ## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
 
 **Importante:** Não esqueça de confirmar sua presença no credenciamento.
+
+<center><a href="https://erechim.tchelinux.org/inscricoes/" style="color:#ff4040"><b>Clique aqui e faça sua inscrição!</b></a></center>
 
 ## Programação
 
