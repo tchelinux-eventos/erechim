@@ -18,7 +18,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 **Importante:** Não esqueça de confirmar sua presença no credenciamento.
 
-<center><a href="https://erechim.tchelinux.org/inscricoes/" style="color:#ff4040"><b>Clique aqui e faça sua inscrição!</b></a></center>
+<center><a href="https://erechim.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!</h3></b></a></center>
 
 ## Programação
 
