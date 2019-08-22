@@ -172,6 +172,9 @@ Espaço dedicado a apresentação de cases empresariais utilizando Software Livr
 [![Millenium Informática](images/logo_millenium.jpg)](https://www.facebook.com/Millenium-Inform%C3%A1tica-190999984359486/)
 [![GPR](images/logo_gpr.png)](http://gprnutricaoanimal.com.br/)
 
+
+[![GPR](images/logo_casadomarceneiro.jpg)](#)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
