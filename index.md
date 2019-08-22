@@ -170,6 +170,7 @@ Espaço dedicado a apresentação de cases empresariais utilizando Software Livr
 
 [![NeTIworking](images/logo_neTIworking.jpg)](https://www.linkedin.com/company/14027424/)
 [![Millenium Informática](images/logo_millenium.jpg)](https://www.facebook.com/Millenium-Inform%C3%A1tica-190999984359486/)
+[![GPR](images/logo_gpr.png)](http://gprnutricaoanimal.com.br/)
 
 ### Divulgação
 
