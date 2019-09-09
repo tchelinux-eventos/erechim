@@ -26,8 +26,8 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **10:20** <td colspan=3><center>[**Software Livre em Ambientes Empresariais**](#Software_Livre_em_Ambientes_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Marcos Lucas |
 | **11:10** <td colspan=3><center>[**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
 | **12:00** <td colspan=3><center>**Intervalo para Almoço**</center> |
-| **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Mulheres, Tecnologia e Sororidade**](#Mulheres,_Tecnologia_e_Sororidade) <br> <span class="label label-success">Principiante</span> <br> Leonara Lorini, Patrícia Tussi, Pollyanna Rigon Valente e Tatiana Cavalheri Borges Dias | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br>|
-| **14:20** | [**Por que a galinha atravessou a rua?**](#Por_que_a_galinha_atravessou_a_rua?) <br> <span class="label label-success">Principiante</span> <br> Alan Mussoi |  [**Escrevendo um livro sobre Software Livre**](#Escrevendo_um_livro_sobre_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Ricardo da Silva Ogliari |  [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> |
+| **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Mulheres, Tecnologia e Sororidade**](#Mulheres,_Tecnologia_e_Sororidade) <br> <span class="label label-success">Principiante</span> <br> Leonara Lorini, Patrícia Tussi, Pollyanna Rigon Valente e Tatiana Cavalheri Borges Dias | [**Porque migramos nossa infraestrutura para Proxmox VE? (parte 1)**](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre <br>|
+| **14:20** | [**Por que a galinha atravessou a rua?**](#Por_que_a_galinha_atravessou_a_rua?) <br> <span class="label label-success">Principiante</span> <br> Alan Mussoi |  [**Escrevendo um livro sobre Software Livre**](#Escrevendo_um_livro_sobre_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Ricardo da Silva Ogliari | [**Porque migramos nossa infraestrutura para Proxmox VE? (parte 2) **](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre <br>|
 | **15:10** <td colspan=3><center>**Coffee-Break**</center> |
 | **15:40** | [**Flask and you**](#Flask_and_you) <br> <span class="label label-warning">Intermediário</span> <br> Luciano Camargo Cruz<br> | [**O Maravilhoso Mundo das Competições Capture the Flag (CTF)**](#O_Maravilhoso_Mundo_das_Competições_Capture_the_Flag) <br> <span class="label label-success">Principiante</span> <br> Álisson Bertochi <br> | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> |
 | **16:30** | [**Pentaho, garantindo o sucesso do BI**](#Pentaho,_garantindo_o_sucesso_do_BI) <br> <span class="label label-danger">Avançado</span> <br> Tatiana Cavalheri Borges Dias <br> | [**Flutter e IoT**](#Flutter_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari<br> | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br>  |
@@ -92,6 +92,14 @@ Somos representantes de um grupo de mulheres unidas em busca de conhecimento e d
 Especialista em Business Intelligence, análise e estruturação de dados para Data Warehouse, criação de dashboards utilizando Pentaho, PowerBI e Tableau. 
 
 Atualmente trabalha como Coordenadora de TI e Projetos na Reitoria da Universidade Regional Integrada - URI, em Erechim.
+
+### Porque migramos nossa infraestrutura para Proxmox VE?
+
+Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos fez decidir migrar. Falaremos também sobre storages distribuídos usando Ceph, recursos incríveis de alta-disponibilidade, a dinâmica da interface GUI e responder a pergunta que todos fazem: "Valeu a pena mudar para essa solução?".
+
+### Alexandre Aguirre
+
+[Alexandre Aguirre](http://www.h3ti.com.br/) é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games.
 
 ### Por que a galinha atravessou a rua?
 
