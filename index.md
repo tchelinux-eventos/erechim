@@ -83,7 +83,7 @@ Somos representantes de um grupo de mulheres unidas em busca de conhecimento e d
 
 ### Pollyanna Rigon Valente
 
-[Pollyanna Rigon Valente](https://br.linkedin.com/in/pollyannarigon) é Formada em Ciência da Computação (URI) e atua como Programador de Software Jr na Compasso. Profissional da área de Telecomunicações e buscando especialização em Governança da Internet. Membro do Capitulo Brasileiro da Internet Society (ISOC), SIG YOUTH e SIG WOMEN. Entusiasta do Software Livre e evangelista IPv6.
+[Pollyanna Rigon Valente](https://br.linkedin.com/in/pollyannarigon) é Acadêmica em Ciência da Computação (URI) e atua como Programador de Software Jr na Compasso. Profissional da área de Telecomunicações e buscando especialização em Governança da Internet. Membro do Capitulo Brasileiro da Internet Society (ISOC), SIG YOUTH e SIG WOMEN. Entusiasta do Software Livre e evangelista IPv6.
 
 ### Tatiana Cavalheri Borges Dias
 
